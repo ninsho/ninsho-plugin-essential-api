@@ -1,6 +1,6 @@
 {
   "name": "ninsho-plugin-essential-api",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A plugin aggregating simple APIs used on ninsho",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/ninsho/ninsho-plugin-essential-api/",
   "dependencies": {
-    "ninsho-base": "^0.0.8",
+    "ninsho-base": "^0.0.9",
     "ninsho-utils": "^0.0.7"
   },
   "devDependencies": {
